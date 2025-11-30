@@ -55,7 +55,7 @@ const About = () => {
                             </div>
                             <div className="flex items-center space-x-4 text-gray-300 hover:text-accent transition-colors duration-300">
                                 <Mail className="w-6 h-6 text-accent" />
-                                <span className="text-lg">contact@djibo.dev</span>
+                                <span className="text-lg">d01619479@gmail.com</span>
                             </div>
                         </div>
                     </div>
