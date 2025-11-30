@@ -47,7 +47,7 @@ const About = () => {
                             </div>
                             <div className="flex items-center space-x-4 text-gray-300 hover:text-accent transition-colors duration-300">
                                 <MapPin className="w-6 h-6 text-accent" />
-                                <span className="text-lg">Paris, France</span>
+                                <span className="text-lg">Mali, Bamako</span>
                             </div>
                             <div className="flex items-center space-x-4 text-gray-300 hover:text-accent transition-colors duration-300">
                                 <Calendar className="w-6 h-6 text-accent" />
